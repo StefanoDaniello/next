@@ -1,5 +1,5 @@
 import Form from "next/form";
-import {test}`````````````````````````````````````````` from "../actions/action";
+import {test} from "../actions/action";
 export default function Page () {
     return (
       <>
